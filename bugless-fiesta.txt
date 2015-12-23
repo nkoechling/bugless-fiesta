@@ -1,2 +1,55 @@
 ! 14. Dezember 2015 um 12:41:22 MEZ http://www.chefkoch.de/magazin/artikel/3999,0/Adblock/So-deaktivierst-du-deinen-Adblocker-auf-Chefkoch-de.html
 ||www.chefkoch.de/img/default/adblocker-active-attension.jpg
+
+!hukd.mydealz.de###main.content-main > ol > .inline-newsletter.section--divided.width--all-12 > .section--padded--tight
+
+! 17.4.2015 16:16:07 http://krautchan.net/b/
+krautchan.net###disclaimer_screen.disclaimer_screen
+
+! 17.4.2015 16:16:19 http://krautchan.net/b/
+krautchan.net###disclaimer.disclaimer
+
+! 17.4.2015 23:11:50 http://www.lolchampion.de/fortgeschrittenen-guide/runenseiten-fuer-fortgeschrittene/runenseiten-top-lane/
+www.lolchampion.de###post-11164.post-11164.page.type-page.status-publish.has-post-thumbnail.hentry > .post-content > center:nth-of-type(1)
+
+! 18.4.2015 13:31:06 http://www.spiegel.de/auto/aktuell/bmw-7er-erste-fahrt-im-neuen-modell-a-1029072.html
+||farm.plista.com/iframeWidget.php
+
+! 18.4.2015 13:31:43 http://www.spiegel.de/auto/aktuell/bmw-7er-erste-fahrt-im-neuen-modell-a-1029072.html
+www.spiegel.de###spVeeseo.module-box
+
+! 14.5.2015 12:41:04 https://boerse.to/search/search
+boerse.to###logoBlock > .pageWidth > .pageContent > .topright.hiddenResponsiveNarrow > ul
+
+! 14.5.2015 12:44:28 http://wololo.net/2015/05/13/new-piracy-technique-on-ps4-in-brazil-confirmed-to-be-real-sony-might-take-legal-action/
+wololo.net###header > .container.group > .container-inner > .group.pad > .an-alternative > p > strong
+
+! 15.5.2015 14:05:43 http://boards.4chan.org/hc/
+boards.4chan.org##.center:nth-of-type(10)
+
+! 15.5.2015 14:05:57 http://boards.4chan.org/hc/
+boards.4chan.org##.center:nth-of-type(5) > div
+
+! 15.5.2015 14:06:10 http://boards.4chan.org/hc/
+boards.4chan.org##.center:nth-of-type(5)
+
+! 15.5.2015 14:06:17 http://boards.4chan.org/hc/
+boards.4chan.org##.belowLeaderboard
+
+! 18.5.2015 11:07:57 http://www.voelkner.de/products/487020/Bosch-Heissklebestift-GluePen-3.6-V-7-x-150-mm.html
+||ssl.retail-international.de/voelkner/images/landingpage/newsletter/overlay_nl_win_ve.png
+
+! 23.5.2015 17:43:28 http://fucktail.tumblr.com/page/4
+||assets.tumblr.com/assets/html/iframe/follow.html
+
+! 27.5.2015 13:38:45 https://www.mikrocontroller.net/
+www.mikrocontroller.net###container > .box
+
+! 3.6.2015 02:01:46 http://www.tsviewer.com/index.php?page=ts_viewer&ID=977095
+www.tsviewer.com###iLoveTSViewer
+
+! 3.6.2015 22:03:47 https://cdn1.gamesports.net/img/themes/summonersinn/monkey_top.jpg
+||cdn1.gamesports.net/img/themes/summonersinn/monkey_top.jpg
+
+! 21.12.2015, 23:00:20 http://www.mydealz.de/deals-new
+www.mydealz.de###main > .space--medium--right-0.space--medium--left-0.space--right-3.space--left-3.space--mtop-2 > .space--mbottom-1.width--all-12.section--divided.inline-newsletter
